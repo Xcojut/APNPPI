@@ -1,0 +1,27 @@
+Fonctionnalités principales :
+
+Image d'accueil illustrativeUne image libre de droit est affichée en haut du site pour représenter visuellement l'accessibilité. Elle apparaît avec une animation douce lors du chargement.
+
+Interface accessible et épuréeL'interface utilise de grandes zones cliquables, des textes lisibles et une disposition adaptée aux mobiles (responsive design).
+
+Options configurables :
+
+Navigation rapide : active ou non.
+
+Mode à distance : pour déclencher des actions à distance.
+
+Délai de clic : entre 1s et 6s.
+
+Délai automatique : déclenchement automatique après un temps choisi.
+
+Position du menu : à droite, gauche, centre ou proche.
+
+Sauvegarde localeLes préférences choisies sont automatiquement enregistrées dans le navigateur grâce à localStorage. Elles sont restaurées lors de la prochaine visite.
+
+Lecture vocale d’un tutorielUn bouton permet de lancer une voix qui explique comment utiliser le site, grâce à la fonctionnalité speechSynthesis du navigateur.
+
+Compatibilité mobileLe site est entièrement adapté aux écrans de téléphone avec des blocs qui se réorganisent pour une lecture verticale.
+
+But du site :
+Fournir un outil personnalisable permettant d’améliorer le confort d’utilisation des interfaces web pour les personnes ayant des limitations motrices, le tout de manière autonome et conviviale.
+
